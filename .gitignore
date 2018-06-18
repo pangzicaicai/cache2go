@@ -9,3 +9,5 @@ _test
 
 # Backup files
 *~
+.DS_Store
+.idea/
